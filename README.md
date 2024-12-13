@@ -55,16 +55,13 @@ This project identifies **Autoencoder + K-Means** as a promising tool for ransom
 - Experimenting with advanced clustering algorithms to optimize cluster definition.  
 - Scaling the approach for larger, more complex datasets to explore real-time clustering applications.  
 - Balancing computational efficiency with model accuracy for practical deployment.
-
 ---
 
 ## Repository Contents
 
-- **`/data`**: Preprocessed datasets used for model training and evaluation.  
-- **`/notebooks`**: Jupyter notebooks for exploratory data analysis, clustering model implementation, and result visualization.  
+- **`/UnsupervisedRansomwareDetectionFinalVersion.ipynb`**: Jupyter notebooks for exploratory data analysis, clustering model implementation, and result visualization.  
 - **`/models`**: Serialized models and configurations for reproducibility.  
-- **`/scripts`**: Python scripts for preprocessing, model training, and evaluation.  
-- **`/results`**: Visualizations and performance metrics for each model.
+- **`/UnsupervisedRansomwareDetection.pdf`**: Conference paper for the project.  
 
 ---
 
