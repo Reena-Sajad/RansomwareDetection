@@ -59,8 +59,7 @@ This project identifies **Autoencoder + K-Means** as a promising tool for ransom
 
 ## Repository Contents
 
-- **`/UnsupervisedRansomwareDetectionFinalVersion.ipynb`**: Jupyter notebooks for exploratory data analysis, clustering model implementation, and result visualization.  
-- **`/models`**: Serialized models and configurations for reproducibility.  
+- **`/UnsupervisedRansomwareDetectionFinalVersion.ipynb`**: Jupyter notebooks for exploratory data analysis, clustering model implementation, and result visualization.    
 - **`/UnsupervisedRansomwareDetection.pdf`**: Conference paper for the project.  
 
 ---
